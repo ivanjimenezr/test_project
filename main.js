@@ -1,6 +1,6 @@
 let holes = document.querySelectorAll('div.hole')
 let moles = document.querySelectorAll('div.mole')
-let scoreBoard = document.querySelector('span.score') 
+let scoreBoard = document.querySelector('.score') 
 
 let lastHole;
 
