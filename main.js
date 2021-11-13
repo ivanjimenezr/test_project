@@ -1,5 +1,5 @@
-let holes = document.querySelectorAll('div.hole')
-let moles = document.querySelectorAll('div.mole')
+let holes = document.querySelectorAll('.hole')
+let moles = document.querySelectorAll('.mole')
 let scoreBoard = document.querySelector('.score') 
 
 let lastHole;
