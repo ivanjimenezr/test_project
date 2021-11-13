@@ -1,9 +1,7 @@
-holesElem = document.querySelectorAll('div.hole')
-molesElem = document.querySelectorAll('div.mole')
-scoreElem = document.querySelector('span.score')
-// console.log(holesElem)
-// console.log(molesElem)
-// console.log(scoreElem)
+let holes = document.querySelectorAll('div.hole')
+let moles = document.querySelectorAll('div.mole')
+let scoreBoard = document.querySelector('span.score') 
+
 let lastHole;
 
 //Creamos la funcion para hacer un random del tiempo que salen los topos 
